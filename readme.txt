@@ -37,5 +37,5 @@ The source engine supports games made with Source & GoldSource engine.For exampl
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release

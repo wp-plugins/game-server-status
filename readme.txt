@@ -1,6 +1,6 @@
 === Game Server Status ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
+Contributors: grohsfabian
+Donate link: http://codecanyon.net/user/GrohsFabian
 Tags: servers, live status, minecraft, san andreas, counter strike, live server status, widget, shortcodes
 Requires at least: 4.1.1
 Tested up to: 4.1.1
@@ -14,7 +14,7 @@ Get the live status and details of your game server ( minecraft, counter strike,
 
 With our plugin you can simply use widgets and shortcodes to display your game server's current status.
 
-Special Requirements
+*Special Requirements*
 
 Sockets - Your webhost must have the Socketing function enabled and opened for incoming and outgoing connections for the specific ports ( example: 25565 - for minecraft servers / 27015 - for Counter Strike servers )
 

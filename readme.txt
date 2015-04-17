@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: servers, live status, minecraft, san andreas, counter strike, live server status, widget, shortcodes
 Requires at least: 4.1.1
 Tested up to: 4.1.1
-Stable tag: 4.3
+Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

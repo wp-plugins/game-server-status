@@ -22,6 +22,7 @@ Sockets - Your webhost must have the Socketing function enabled and opened for i
 I have built 3 other standalone servers list that I hope you will like, you can check them out on [CodeCanyon.net/user/GrohsFabian](http://codecanyon.net/user/GrohsFabian/portfolio)
 
 **Supported Games**
+
 * Minecraft
 * San Andreas Multiplayer
 * Counter Strike Series
@@ -29,7 +30,7 @@ I have built 3 other standalone servers list that I hope you will like, you can 
 * Left 4 Dead Series
 * Half Life
 * Rust
-* **and many more**
+* and many more
 
 == Installation ==
 

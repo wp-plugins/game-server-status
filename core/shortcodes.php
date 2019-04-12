@@ -43,8 +43,8 @@ function grohsfabian_game_servers_short($atts, $message = null)	{
 			case 'server_name'		: $content .= $server->server_name; break;
 			case 'server_status'	: $content .= (($status) ? __('Online', 'game-server-status') : __('Offline', 'game-server-status')); break;
 			case 'server_address'	: $content .= $server->server_ip . ':' . $server->server_connection_port; break;
-			case 'server_online_players'			: $content .= $server_info['general']['online_players']; break;
-			case 'server_maximum_online_players'	: $content .= $server_info['general']['maximum_online_players']; break;
+			case 'server_online_players'			: $content .= $server_info['general']['online_players']['value']; break;
+			case 'server_maximum_online_players'	: $content .= $server_info['general']['maximum_online_players']['value']; break;
 			
 			default:
 				$content .= '<strong>' . __('Name:', 'game-server-status') . '</strong> ' . $server->server_name . '<br />'; 
